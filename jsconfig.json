@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@global/*": ["components/global/*"],
+        "@config/*": ["config/*"],
+        "@hooks/*": ["hooks/*"],
+        "@utils/*": ["components/utils/*"],
+        "@icons/*": ["components/icons/*"],
+        "@elm/*": ["components/elm/*"]
+      }
+    }
+}
